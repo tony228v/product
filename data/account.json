@@ -1,0 +1,10 @@
+{
+  "host": "",
+  "user": "",
+  "password": "",
+  "database": "",
+  "tables": {
+    "input": "",
+    "output": ""
+  }
+}
